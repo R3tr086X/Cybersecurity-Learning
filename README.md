@@ -20,13 +20,15 @@ Prácticas y laboratorios realizados en la plataforma TryHackMe, organizados por
 Ruta actual:
 - `tryhackme`
 
-### Scripts
-Pequeños scripts desarrollados con fines educativos para automatizar tareas básicas relacionadas con redes y seguridad.
-- Escaneos básicos
-- Pruebas y utilidades simples
+### Projects
+Pequeños proyectos desarrollados con fines educativos durante clases o de forma autónoma, relacionados con redes, sistemas y seguridad.
+- Configuraciones de red
+- Implementación de servicios
+- Prácticas de seguridad
+- Automatización básica
 
 Ruta:
-- `scripts/`
+- `projects/`
 
 ## Objetivo
 - Consolidar conocimientos prácticos en ciberseguridad
@@ -38,8 +40,8 @@ Todo el contenido es educativo y se ha realizado en entornos controlados (labs y
 
 ---
 
-
 ## English
+
 This repository documents my learning journey in cybersecurity, including hands-on labs, notes, and small projects developed while studying information security fundamentals.
 
 I am currently training in cybersecurity after completing ASIR, and this repository serves as a practical portfolio to showcase my progress and skills.
@@ -56,13 +58,15 @@ Hands-on labs and exercises completed on the TryHackMe platform, organized by le
 Current path:
 - `tryhackme`
 
-### Scripts
-Small educational scripts created to automate basic networking and security-related tasks.
-- Basic scanning
-- Simple utilities and experiments
+### Projects
+Small educational projects developed during coursework or independently, focused on networking, systems, and security practice.
+- Network configurations
+- Service deployment
+- Security practice
+- Basic automation
 
 Path:
-- `scripts/`
+- `projects/`
 
 ## Goal
 - Build strong practical foundations in cybersecurity
