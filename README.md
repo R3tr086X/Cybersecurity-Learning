@@ -28,7 +28,7 @@ Pequeños proyectos desarrollados con fines educativos durante clases o de forma
 - Automatización básica
 
 Ruta:
-- `projects/`
+- `projects`
 
 ## Objetivo
 - Consolidar conocimientos prácticos en ciberseguridad
