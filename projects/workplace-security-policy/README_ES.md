@@ -140,9 +140,3 @@ Cada rol presenta un perfil de riesgo diferente:
 
 Un enfoque de seguridad basado en roles, combinado con controles técnicos, organizativos y físicos, reduce significativamente la exposición global al riesgo.
 
----
-
-# ⚠️ Aviso
-
-Este proyecto ha sido desarrollado con fines educativos en un entorno académico/controlado.  
-No se han utilizado datos reales de ninguna empresa.
